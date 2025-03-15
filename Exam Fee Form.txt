@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>EXAM FEE FORM</title>
+</head>
+<body>
+<form name="Form">
+NAME : <input type="text"><br>
+FATHER NAME : <input type="text"><br>
+MOTHER NAME : <input type="text"><br>
+GENDER : Male<input type="checkbox"> Female<input type="checkbox"><br>
+EMAILID : <input type="text"><br>
+ADDRESS : <textarea name="address"rows="5"cols="15"></textarea><br>
+COURSE : <input type="checkbox">BSC<br><input type="checkbox">BZC<br><input type="checkbox">BCOM<br>
+YEAR : 1st year<input type="checkbox"><br> 2nd year<input type="checkbox"><br> 3rd year<input type="checkbox"><br>
+SECOND LANGUAGE : SAN<input type="radio"<br>TEL<input type="radio"><br>HIN<input type="radio"><br>
+SUBMIT : <input type="submit">
+</form>
+</body>
+</html>
